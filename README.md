@@ -31,7 +31,6 @@ I am passionate about building AI-driven solutions and functional web applicatio
 ---
 <div align="center">
 
-# 👋 Hi there, I'm Bhavana! 
 ### 🚀 Data Scientist & Full-Stack Developer
 **Turning complex data into seamless user experiences.**
 
