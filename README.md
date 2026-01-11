@@ -69,26 +69,6 @@ AI / ML stack:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&cache_seconds=86400"
-  width="420"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavanavaddadi&layout=compact&theme=tokyonight&cache_seconds=86400"
-  width="320"
-/>
-
-</div>
-
-
----
 
 ## ✨ What You’ll Find Here
 - 📁 Clean, learning-focused repositories  
