@@ -93,7 +93,7 @@ AI / ML stack:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
+  <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=google-chrome"/>
 </a>
 </p>
 
