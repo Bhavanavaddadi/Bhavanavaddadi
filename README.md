@@ -71,19 +71,22 @@ AI / ML stack:
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight" 
-    width="420"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavanavaddadi&layout=compact&theme=tokyonight" 
-    width="320"
-  />
-</p>
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&cache_seconds=86400"
+  width="420"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavanavaddadi&layout=compact&theme=tokyonight&cache_seconds=86400"
+  width="320"
+/>
+
+</div>
+
 
 ---
 
