@@ -1,101 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=72&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
-### 🤖 AI Engineer • Full-Stack Developer • Flutter Enthusiast  
-**Turning data, models & ideas into intelligent products**
+### 🤖 AI • Full Stack • Flutter  
+*Building things that actually work.*
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%7C+NLP+%7C+Computer+Vision;Full+Stack+Web+%26+Mobile+Apps;LLMs+%7C+FastAPI+%7C+Flutter;Clean+Code+%7C+Scalable+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLMs+%7C+NLP+%7C+Computer+Vision;FastAPI+%7C+React+%7C+Flutter;Learning+by+building+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-## ✨ About Me
+## 🌱 About this space
 
-I’m a **Data Scientist & Full-Stack Developer** who enjoys building  
-**AI-powered systems**, **LLM applications**, and **scalable web & mobile products**.
+This GitHub is a **work-in-progress lab** —  
+you’ll find **ML experiments**, **AI tools**, **full-stack apps**, and **Flutter projects**.
 
-I’ve worked across **healthcare AI**, **NLP chatbots**, **computer vision**, and **full-stack platforms** — always focusing on **real-world usability**, not just models.
+I like:
+- shipping small → scaling later  
+- learning by breaking things  
+- mixing **AI + real products**
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧩 Things I’ve Built (so far)
+
+### 🧠 Machine Learning & AI
+- **🔍 Churn Prediction Model**  
+  → End-to-end ML workflow using structured data  
+  → `Jupyter` `Python` `Scikit-learn`
+
+- **🎗️ Breast Cancer Prediction**  
+  → Binary classification with medical datasets  
+  → Focus on preprocessing & evaluation
+
+- **🤖 Chatbot Experiments**  
+  → NLP + intent-based logic  
+  → Early exploration of conversational systems
+
+- **🧠 AI Skill Detection & Hiring Tool**  
+  → NLP-driven skill extraction  
+  → Designed for automated hiring workflows
+
+---
+
+### 🌐 Full Stack & Web
+- **🗺️ StayAtlas**  
+  → Full-stack web application  
+  → Built collaboratively, focused on usability & structure  
+  → `JavaScript` `Web Stack`
+
+- **🏠 Home / Portfolio (Private)**  
+  → Personal web experiments & layouts
+
+---
+
+### 📱 Mobile / Flutter
+- **📲 Features Application Repo**  
+  → Flutter feature modules & UI components
+
+- **🧪 Feature Playground**  
+  → Isolated Flutter experiments & learning builds
+
+---
+
+### ⚙️ Systems & Utilities
+- **📊 Resource Management Tool**  
+  → Backend-focused project  
+  → Explores data handling & system logic
+
+---
+
+## 🛠️ Tech I Enjoy Working With
 
 <div align="center">
 
-### 💻 Languages
-`C++` `Python` `SQL` `JavaScript` `Dart`
+**Languages**  
+`Python` `C++` `JavaScript` `SQL` `Dart`
 
-### 🤖 AI / ML
-`PyTorch` `Scikit-Learn` `Hugging Face` `LangChain` `LangGraph`  
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
+**AI / ML**  
+`PyTorch` `Scikit-learn` `Transformers`  
+`LangChain` `LangGraph`
 
-### 🌐 Full Stack
-`React.js` `Node.js` `HTML` `CSS` `Flutter`
+**Full Stack**  
+`React` `Node.js` `FastAPI` `Flutter`
 
-### 🗄️ Databases
-`PostgreSQL` `MySQL` `MongoDB Atlas`
-
-### 🔧 Dev & APIs
-`FastAPI` `Swagger UI` `Postman` `Git` `GitHub`
+**Data**  
+`PostgreSQL` `MySQL` `MongoDB`
 
 </div>
 
 ---
 
-## 💼 Experience
-
-### 📱 Android Developer Intern — **Compozent**
-*Dec 2024 – Jan 2025 | Mumbai*
-
-- Built **high-performance Flutter apps** with clean, scalable architecture  
-- Designed efficient **PostgreSQL-based backend workflows**
-- Integrated **third-party APIs** & shipped UX improvements from live feedback
-- Collaborated with designers & backend teams to deliver production features
-
----
-
-### 🌍 Full-Stack Developer Intern — **StayAtlas**
-*Jun 2025 – Aug 2025*
-
-- Developed a **production-ready full-stack website**
-- Optimized performance & ensured responsive UI across devices
-- Implemented **PostgreSQL** for reliable backend data handling
-- Conducted **competitor analysis** to guide feature enhancements
-
----
-
-## 🚀 Highlight Projects
-
-### 🧠 Medical AI Chatbot (LLM)
-- Built using **T5, BioBERT, Phi-2**
-- Fine-tuned models using **QLoRA** for memory efficiency
-- FastAPI backend + **React frontend**
-- MongoDB Atlas for secure chat history
-- Evaluated using **ROUGE metrics**
-
----
-
-### 🚗 Car Detection using Computer Vision
-- Image pipeline with **OpenCV, skimage, imgaug**
-- Dataset variability improved by **30%**
-- CNN built with **TensorFlow & Keras**
-- Achieved **92% accuracy**
-
----
-
-### 🛒 Full-Stack E-Commerce Platform
-- React frontend + Node.js backend
-- Secure authentication & role-based dashboards
-- Seller & buyer profile systems
-- Product listing & transaction workflows
-
----
-
-## 📊 GitHub in Motion
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -104,14 +101,7 @@ I’ve worked across **healthcare AI**, **NLP chatbots**, **computer vision**, a
 
 ---
 
-## 🎓 Certifications
-- 📘 **Statistics for Data Science** — Internshala  
-- 💻 **Web Development Bootcamp** — Udemy  
-- 📊 **Power BI for Data Analysis**
-
----
-
-## 🌐 Let’s Connect
+## 🌐 Around the Web
 
 <p align="center">
 <a href="YOUR_LINKEDIN_URL">
