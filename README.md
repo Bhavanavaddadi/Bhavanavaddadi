@@ -1,144 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=72&animation=fadeIn&fontAlignY=40"/>
 
-# 🤖 AI Engineer | Full-Stack Developer 🚀
-### Building intelligent systems with scalable code & data-driven logic
+### 🤖 AI Engineer • Full-Stack Developer • Flutter Enthusiast  
+**Turning data, models & ideas into intelligent products**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%7C+NLP+%7C+Computer+Vision;Full+Stack+Web+%26+Mobile+Apps;LLMs+%7C+FastAPI+%7C+Flutter;Clean+Code+%7C+Scalable+Systems"/>
 
 </div>
 
 ---
 
-## 👋 Hi, I’m Bhavana
+## ✨ About Me
 
-I’m a **Data Scientist & Full-Stack Developer** passionate about building **AI-powered applications**, **ML-driven systems**, and **production-ready web & mobile solutions**.  
-My work spans **healthcare AI**, **NLP chatbots**, **automated hiring systems**, and **full-stack platforms**.
+I’m a **Data Scientist & Full-Stack Developer** who enjoys building  
+**AI-powered systems**, **LLM applications**, and **scalable web & mobile products**.
+
+I’ve worked across **healthcare AI**, **NLP chatbots**, **computer vision**, and **full-stack platforms** — always focusing on **real-world usability**, not just models.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Tech Arsenal
 
-### 💻 Programming Languages & Frameworks
-- **C++**, **Python**, **SQL**
-- **JavaScript**, **Dart**
-- **Flutter Framework**
+<div align="center">
 
-### 🤖 AI / ML Frameworks & Tools
-- **PyTorch**, **Scikit-learn**
-- **Hugging Face Transformers**
-- **LangChain**, **LangGraph**
-- **NumPy**, **Pandas**
-- **Matplotlib**, **Seaborn**
+### 💻 Languages
+`C++` `Python` `SQL` `JavaScript` `Dart`
 
-### 🌐 Front-End & Backend
-- **React.js**, **Node.js**
-- **HTML**, **CSS**
+### 🤖 AI / ML
+`PyTorch` `Scikit-Learn` `Hugging Face` `LangChain` `LangGraph`  
+`NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+### 🌐 Full Stack
+`React.js` `Node.js` `HTML` `CSS` `Flutter`
 
 ### 🗄️ Databases
-- **MySQL**, **PostgreSQL**
-- **MongoDB Atlas**
+`PostgreSQL` `MySQL` `MongoDB Atlas`
 
-### 🔌 API & Dev Tools
-- **FastAPI**
-- **Swagger UI**
-- **Postman**
-- **Git & GitHub**
+### 🔧 Dev & APIs
+`FastAPI` `Swagger UI` `Postman` `Git` `GitHub`
+
+</div>
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### 📱 Android Developer Intern (Flutter)
-**Compozent | Mumbai, India**  
-*Dec 2024 – Jan 2025*
+### 📱 Android Developer Intern — **Compozent**
+*Dec 2024 – Jan 2025 | Mumbai*
 
-- Developed and maintained **high-performance Android applications** using Flutter.
-- Designed **scalable app architecture** focused on smooth UX.
-- Implemented **PostgreSQL** for backend data management and optimized queries.
-- Integrated **third-party APIs** and rolled out feature enhancements based on real-time user feedback.
-- Collaborated with cross-functional teams to convert client requirements into production-ready solutions.
+- Built **high-performance Flutter apps** with clean, scalable architecture  
+- Designed efficient **PostgreSQL-based backend workflows**
+- Integrated **third-party APIs** & shipped UX improvements from live feedback
+- Collaborated with designers & backend teams to deliver production features
 
 ---
 
-### 🌍 Full Stack Developer Intern
-**StayAtlas**  
-*June 2025 – Aug 2025 (3 Months)*
+### 🌍 Full-Stack Developer Intern — **StayAtlas**
+*Jun 2025 – Aug 2025*
 
-- Built and deployed a **production-ready company website** using full-stack technologies.
-- Ensured **responsive UI**, performance optimization, and backend reliability.
-- Implemented **PostgreSQL** for efficient data handling.
-- Conducted **market & competitor analysis** and proposed feature improvements to boost user engagement.
-
----
-
-## 📂 Academic & Personal Projects
-
-### 🧠 Medical AI Chatbot (LLM-Based)
-*Jan 2025 – Apr 2025*
-
-- Developed a **medical chatbot** using transformer models (**T5, BioBERT, Phi-2**).
-- Collected and processed datasets from **Kaggle** and **Hugging Face**.
-- Applied **data preprocessing, cleaning, and model training pipelines**.
-- Built RESTful APIs using **FastAPI** and integrated them with a **React.js frontend**.
-- Used **Swagger UI** for API documentation and testing.
-- Fine-tuned models using **QLoRA** for memory-efficient NLP training.
-- Evaluated model performance using **ROUGE metrics**.
-- Integrated **MongoDB Atlas** for secure cloud-based chat history storage.
+- Developed a **production-ready full-stack website**
+- Optimized performance & ensured responsive UI across devices
+- Implemented **PostgreSQL** for reliable backend data handling
+- Conducted **competitor analysis** to guide feature enhancements
 
 ---
 
-### 🛒 E-Commerce Website (Full Stack)
-*July 2023 – Nov 2023*
+## 🚀 Highlight Projects
 
-- Developed a **full-stack e-commerce platform** using React.js and Node.js.
-- Implemented **PHP-based backend** with secure authentication.
-- Designed **separate dashboards** for buyers and sellers.
-- Enabled product listings, secure login, and transaction handling.
-- Ensured smooth frontend-backend communication.
-
----
-
-### 🚗 Car Detection Using Computer Vision
-*Personal Project*
-
-- Built an image processing pipeline using **OpenCV, skimage, imgaug**.
-- Performed **image resizing, augmentation, and bounding box manipulation**, increasing dataset variability by **30%**.
-- Designed and trained a **CNN model** using **TensorFlow & Keras**.
-- Achieved **92% test accuracy** after hyperparameter tuning.
-- Used **NumPy, Pandas, and Matplotlib** for data preprocessing and performance visualization.
+### 🧠 Medical AI Chatbot (LLM)
+- Built using **T5, BioBERT, Phi-2**
+- Fine-tuned models using **QLoRA** for memory efficiency
+- FastAPI backend + **React frontend**
+- MongoDB Atlas for secure chat history
+- Evaluated using **ROUGE metrics**
 
 ---
 
-## 📊 GitHub Stats
+### 🚗 Car Detection using Computer Vision
+- Image pipeline with **OpenCV, skimage, imgaug**
+- Dataset variability improved by **30%**
+- CNN built with **TensorFlow & Keras**
+- Achieved **92% accuracy**
+
+---
+
+### 🛒 Full-Stack E-Commerce Platform
+- React frontend + Node.js backend
+- Secure authentication & role-based dashboards
+- Seller & buyer profile systems
+- Product listing & transaction workflows
+
+---
+
+## 📊 GitHub in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavanavaddadi&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavanavaddadi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🎓 Certifications
-- **Statistics for Data Science** – Internshala
-- **Web Development Bootcamp** – Udemy
-- **Power BI for Data Analysis**
+- 📘 **Statistics for Data Science** — Internshala  
+- 💻 **Web Development Bootcamp** — Udemy  
+- 📊 **Power BI for Data Analysis**
 
 ---
 
-## 🤝 Let’s Connect
+## 🌐 Let’s Connect
 
-<p align="left">
+<p align="center">
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
 </a>
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
+</div>
