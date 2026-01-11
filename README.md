@@ -31,8 +31,6 @@ I am passionate about building AI-driven solutions and functional web applicatio
 ---
 <div align="center">
 
-### 🚀 Data Scientist & Full-Stack Developer
-**Turning complex data into seamless user experiences.**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavanavaddadi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" alt="Bhavana's Stats" height="180px" />
