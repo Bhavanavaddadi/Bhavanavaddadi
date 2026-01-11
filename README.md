@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
-### 🤖 AI • Full Stack • Flutter  
-Building things that mix **ML, code & real-world use**
+### 🤖 AI • Full Stack • Data Science  
+Building solutions that blend **ML, code & real-world use**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLMs+%7C+AI+Chatbots+%7C+Computer+Vision;Full+Stack+Web+%26+Mobile+Apps;FastAPI+%7C+React+%7C+Flutter;Learning+by+building+%F0%9F%9A%80"/>
 
