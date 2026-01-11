@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=220&section=header&text=Bhavana%20Vaddadi&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
 ### 🤖 AI • Full Stack • Flutter  
 Building things that mix **ML, code & real-world use**
